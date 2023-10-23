@@ -148,14 +148,14 @@
         list-style: none;
 }
 
-h3 {
+.reviews h3 {
         margin-left: 0;
 }
 
-h3, p {
+.reviews h3, .reviews p {
         text-align: left;
 }
 
-.amenities ul, .reviews ul {
+.articles .amenities ul, .reviews ul {
         padding: 0;
 }
