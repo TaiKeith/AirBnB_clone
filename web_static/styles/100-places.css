@@ -93,41 +93,40 @@
         padding-bottom: 5px;
 }
 
-.amenities {
+.articles .amenities {
         margin-top: 40px;
-        text-align: center;
 }
 
-.amenities .tv {
+.articles .amenities .tv {
         background: url("../images/icon_tv.png");
         background-size: cover;
         background-repeat: no-repeat;
 }
 
-.amenities .wifi {
+.articles .amenities .wifi {
         background: url("../images/icon_wifi.png");
         background-size: cover;
         background-repeat: no-repeat;
 }
 
-.amenities .pet_friendly {
+.articles .amenities .pet_friendly {
         background: url("../images/icon_pets.png");
         background-size: cover;
         background-repeat: no-repeat;
 }
 
-.amenities div {
+.articles .amenities div {
         width: 20px;
         height: 20px;
 }
 
-.amenities div span {
+.articles .amenities div span {
         position: absolute;
         margin-left: 30px;
         padding-top: 1px;
 }
 
-.amenities h2 {
+.articles .amenities h2 {
         font-size: 16px;
         border-bottom: 1px solid #DDDDDD;
 }
